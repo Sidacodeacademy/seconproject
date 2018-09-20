@@ -1,1 +1,1 @@
-# seconproject
+# second.project
